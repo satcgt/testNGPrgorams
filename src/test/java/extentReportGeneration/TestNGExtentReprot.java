@@ -1,4 +1,4 @@
-package extentReport;
+package extentReportGeneration;
 
 import org.testng.annotations.Test;
 
